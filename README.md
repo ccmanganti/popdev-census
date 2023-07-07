@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./public/img/logo_header.png" alt="Logo" width="200">
+    <img src="./public/img/logo_header.png" alt="Logo" width="400">
   </a>
 
   <h3 align="center">Population Development System with Extensive Data Analytics and Integrations for the Commission on Population and Development</h3>
