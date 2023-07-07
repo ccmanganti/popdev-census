@@ -155,53 +155,36 @@ Set up the environment:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Usage Description:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The Popdev System is a comprehensive census system designed for the Commission on Population and Development (POPCOM) of the Government of the Philippines. This user-friendly system offers a range of functionalities to assist POPCOM and its various sectors in gathering, managing, analyzing, and utilizing population data for informed decision-making and policy development.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Here's an overview of the system's key functionalities and how it can be used:
 
+1. Data Collection:
+- Capture Demographic Information: The system allows users to collect essential demographic details such as age, gender, ethnicity, education, occupation, and income levels of the population.
+- Streamlined Data Entry: Users can input data through intuitive forms, ensuring accuracy and efficiency in the data collection process.
+- Validation and Error Handling: The system employs data validation techniques to minimize errors and ensure the integrity of collected data.
 
+2. Data Management:
+- Secure Storage: The system securely stores collected data, following industry-standard protocols for data security and privacy.
+- Search and Retrieval: Users can easily search and retrieve specific population data based on various parameters, enabling quick access to relevant information.
+- Data Updates: The system supports the ability to update population data as necessary, ensuring the data remains up-to-date.
 
-<!-- ROADMAP -->
-## Roadmap
+3. Data Analytics:
+- Comprehensive Analysis: Users can leverage advanced data analytics features to gain insights into population dynamics, trends, and patterns.
+- Visualization: The system provides powerful visualization tools, including charts, graphs, and maps, to present analyzed data in a clear and visually appealing manner.
+- Reporting: Users can generate comprehensive reports based on analyzed data, facilitating evidence-based decision-making and policy formulation.
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+4. Data Export and Sharing:
+- Export Data: The system offers flexible options to export population data in various formats, such as Excel, CSV, or PDF, facilitating data sharing and collaboration with different government sectors.
+- Interdepartmental Cooperation: The system promotes seamless data sharing and collaboration among different sectors within the government, ensuring cross-functional utilization of population data.
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+5. Security and Privacy:
+- Data Protection: The system incorporates robust security measures to protect sensitive population data, adhering to industry-standard encryption protocols and access controls.
+- Confidentiality: The system maintains user confidentiality by anonymizing personal information and adhering to relevant data protection regulations.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+The Popdev System serves as a vital tool for POPCOM and its sectors to effectively gather, manage, analyze, and utilize population data. By providing a user-friendly interface, comprehensive analytics capabilities, and robust data security, the system enables POPCOM to make data-driven decisions, develop evidence-based policies, and drive positive population development in the Philippines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,27 +193,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@ccmanganti](https://facebook.com/ccmanganti) - cpe.christopherclarkcmanganti@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [https://github.com/ccmanganti/popdev-census](https://github.com/ccmanganti/popdev-census)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
