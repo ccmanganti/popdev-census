@@ -76,21 +76,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./public/img/358790048_306470195150055_7152231433005764611_n (1).png" alt="Logo" width="400">
-<img src="./public/img/358691053_263613749620870_4071824331896148512_n (1).png" alt="Logo" width="400">
-<img src="./public/img/358646786_1027175638659287_6984588511889434154_n (1).png" alt="Logo" width="400">
+<img src="./public/img/358790048_306470195150055_7152231433005764611_n (1).png" alt="Logo" width="700">
+<img src="./public/img/358691053_263613749620870_4071824331896148512_n (1).png" alt="Logo" width="700">
+<img src="./public/img/358646786_1027175638659287_6984588511889434154_n (1).png" alt="Logo" width="700">
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Introducing the Popdev System, an advanced census system designed exclusively for the Commission on Population and Development (POPCOM) of the Government of the Philippines. This cutting-edge system is specifically tailored to meet the unique needs of POPCOM, enabling efficient population data collection, analysis, and reporting for evidence-based policy development and strategic planning.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The Popdev System offers a user-friendly interface, ensuring a seamless user experience for POPCOM and its various sectors. With its intuitive design and streamlined workflows, users can easily navigate through the system and access its powerful features.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+At the core of the Popdev System is its robust data collection module. This module allows users to gather comprehensive information about the population, including demographic details such as age, gender, ethnicity, education, occupation, and income levels. The system employs sophisticated data validation techniques to ensure accuracy and reliability, reducing errors and improving data quality.
 
-Use the `BLANK_README.md` to get started.
+One of the standout features of the Popdev System is its advanced data export capabilities. Users can effortlessly generate reports and export data in multiple formats, including Excel, CSV, and PDF. This feature enables seamless data sharing and collaboration with different government sectors, facilitating informed decision-making and fostering interdepartmental cooperation.
+
+Data analytics is a crucial aspect of the Popdev System, providing powerful tools for comprehensive analysis. Users can harness the system's advanced analytics features to uncover valuable insights and trends within the population data. The system's robust visualization capabilities, including charts, graphs, and maps, facilitate data interpretation and presentation, empowering POPCOM to communicate key findings effectively.
+
+Security and privacy are paramount in the Popdev System. Stringent data protection measures are implemented, including industry-standard encryption protocols, access controls, and data anonymization techniques. The system adheres to relevant data protection regulations, ensuring the confidentiality and integrity of sensitive information.
+
+The Popdev System stands as a comprehensive solution, supporting POPCOM's mission to promote sustainable population development in the Philippines. With its user-friendly interface, comprehensive data analytics, and emphasis on data security, the system equips POPCOM and its sectors with the necessary tools to make informed decisions, develop evidence-based policies, and drive positive change for the population.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,14 +103,10 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python.com]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
