@@ -31,7 +31,7 @@
   <h3 align="center">Population Development System with Extensive Data Analytics and Integrations for PopCom Philippines</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A census web application for the admins, LGU, Barangays and enumerators of Population Development!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
