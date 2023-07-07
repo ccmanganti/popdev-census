@@ -144,6 +144,21 @@ Set up the environment:
 ```sh
     php artisan key:generate
    ```
+
+Database configuration:
+
+In the .env file, update the database connection settings according to your local environment. Set the database name, username, and password.
+
+Run database migrations:
+
+```sh
+    php artisan migrate
+   ```
+
+Serve the application:
+```sh
+    php artisan serve
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
