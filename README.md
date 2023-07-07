@@ -114,35 +114,40 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To set up your Laravel project locally, follow these simple steps:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+PHP: Make sure you have PHP installed on your machine. You can download the latest version of PHP from the official PHP website (https://www.php.net/) and follow the installation instructions for your specific operating system.
+
+Composer: Install Composer, a dependency management tool for PHP, on your local machine. You can download Composer from the official website (https://getcomposer.org/) and follow the installation instructions.
+
+Laravel: Ensure you have Laravel installed globally on your system. Open a command-line interface (CLI) and run the following command:
+
+ ```sh
+    composer global require laravel/installer
+   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Follow these steps to install and set up your Laravel project:
+Clone the repository:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+ ```sh
+    git clone https://github.com/ccmanganti/popdev-census.git
    ```
 
+Install dependencies:
+
+ ```sh
+    cd project-name
+    composer install
+   ```
+
+Set up the environment:
+```sh
+    php artisan key:generate
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
