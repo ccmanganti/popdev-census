@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./public/img/358790048_306470195150055_7152231433005764611_n (1).jpg" alt="Logo" width="80" height="80">
+    <img src="./public/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Population Development System with Extensive Data Analytics and Integrations for the Commission on Population and Development</h3>
@@ -76,7 +76,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./public/img/logo.png" alt="Logo" width="80" height="80">
+<img src="./public/img/358790048_306470195150055_7152231433005764611_n (1).png" alt="Logo" width="400" height="400">
+<img src="./public/img/358691053_263613749620870_4071824331896148512_n (1).png" alt="Logo" width="400" height="400">
+<img src="./public/img/358646786_1027175638659287_6984588511889434154_n (1).png" alt="Logo" width="400" height="400">
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
