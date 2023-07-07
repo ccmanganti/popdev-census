@@ -28,7 +28,7 @@
     <img src="./public/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Population Development System with Extensive Data Analytics and Integrations for PopCom Philippines</h3>
+  <h3 align="center">Population Development System with Extensive Data Analytics and Integrations for the Commission on Population and Development</h3>
 
   <p align="center">
     A census web application for the admins, LGU, Barangays and enumerators of Population Development!
