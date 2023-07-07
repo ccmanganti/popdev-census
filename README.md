@@ -97,7 +97,7 @@ The Popdev System stands as a comprehensive solution, supporting POPCOM's missio
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+At this system's core are these technologies.
 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
