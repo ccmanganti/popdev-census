@@ -76,9 +76,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./public/img/358790048_306470195150055_7152231433005764611_n (1).png" alt="Logo" width="400" height="400">
-<img src="./public/img/358691053_263613749620870_4071824331896148512_n (1).png" alt="Logo" width="400" height="400">
-<img src="./public/img/358646786_1027175638659287_6984588511889434154_n (1).png" alt="Logo" width="400" height="400">
+<img src="./public/img/358790048_306470195150055_7152231433005764611_n (1).png" alt="Logo" width="400">
+<img src="./public/img/358691053_263613749620870_4071824331896148512_n (1).png" alt="Logo" width="400">
+<img src="./public/img/358646786_1027175638659287_6984588511889434154_n (1).png" alt="Logo" width="400">
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
